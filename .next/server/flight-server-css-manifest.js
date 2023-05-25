@@ -1,0 +1,16 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/hrithikjain/Development/whitelist-dapp/whitelist/app/layout.js": [
+      "/Users/hrithikjain/Development/whitelist-dapp/whitelist/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/hrithikjain/Development/whitelist-dapp/whitelist/app/style/globals.css"
+    ],
+    "/Users/hrithikjain/Development/whitelist-dapp/whitelist/app/page.js": [
+      "/Users/hrithikjain/Development/whitelist-dapp/whitelist/app/style/Home.module.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/hrithikjain/Development/whitelist-dapp/whitelist/app/page": [
+      "/Users/hrithikjain/Development/whitelist-dapp/whitelist/app/style/Home.module.css"
+    ]
+  }
+}

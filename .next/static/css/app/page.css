@@ -1,0 +1,53 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./app/style/Home.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.Home_main__jJsBX {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.Home_footer__3Khh0 {
+  display: flex;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+.Home_image__HnoTu {
+  width: 70%;
+  height: 50%;
+  margin-left: 20%;
+}
+.Home_title__DAZxJ {
+  font-size: 2rem;
+  margin: 2rem 0;
+}
+.Home_description__vcBFE {
+  line-height: 1;
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+.Home_button__OQKNU {
+  border-radius: 4px;
+  background-color: blue;
+  border: none;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+  margin-bottom: 2%;
+}
+@media (max-width: 1000px) {
+  .Home_main__jJsBX {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
